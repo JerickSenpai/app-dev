@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# H1
+# Hi :joy:
 **favorite anime**
 1. Erased
 2. Pokemon
